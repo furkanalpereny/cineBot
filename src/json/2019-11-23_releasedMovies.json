@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Karlar Ülkesi 2",
+        "actor": "Kristen Bell, Idina Menzel, Josh Gad",
+        "director": "Jennifer Lee, Chris Buck",
+        "date": "22 Kasım 2019",
+        "time": "1s 44dk",
+        "subject": "Animasyon,Macera",
+        "content": "Karlar Ülkesi 2, Arendelle’in kapılarının çok ötesinde tehlikeli bir yolculuğa çıkan Elsa, Anna, Kristoff, Olaf ve Sven’in maceralarını konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/10/15/15/17/1767320.jpg",
+        "imgLocalPath": "src/img/2019-11-23/19-10-15-15-17-1767320.jpg"
+    },
+    {
+        "title": "Naim: Cep Herkülü",
+        "actor": "Hayat Van Eck, Yetkin Dikinciler, Selen Öztürk",
+        "director": "Özer Feyzioğlu",
+        "date": "22 Kasım 2019",
+        "time": "2s 21dk",
+        "subject": "Biyografik,Belgesel",
+        "content": "Cep Herkülü: Naim Süleymanoğlu, ülkemiz ve dünya spor tarihine adını altın harflerle yazdıran efsanevi halterci Naim Süleymanoğlu’nun hayat hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/06/13/12/39/1343139.jpg",
+        "imgLocalPath": "src/img/2019-11-23/19-06-13-12-39-1343139.jpg"
+    },
+    {
+        "title": "Doktor Uyku",
+        "actor": "Ewan McGregor, Rebecca Ferguson, Kyliegh Curran",
+        "director": "Mike Flanagan",
+        "date": "22 Kasım 2019",
+        "time": "2s 32dk",
+        "subject": "Gerilim,Fantastik",
+        "content": "Doktor Uyku, çocukluğunda yaşadıklarının karanlık gölgesi altında yaşayan Danny'nin özel güce sahip olan genç bir kız ile tanışması sonrası yaşadıklarını konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/10/10/14/09/0822669.jpg",
+        "imgLocalPath": "src/img/2019-11-23/19-10-10-14-09-0822669.jpg"
+    },
+    {
+        "title": "Üzgünüz, Size Ulaşamadık",
+        "actor": "Kris Hitchen, Debbie Honeywood, Rhys Stone",
+        "director": "Ken Loach",
+        "date": "22 Kasım 2019",
+        "time": "1s 40dk",
+        "subject": "Dram",
+        "content": "Üzgünüz, Size Ulaşamadık, yaşanan mali krizle baş etmeye çalışan bir ailenin hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/11/15/11/38/5944288.jpg",
+        "imgLocalPath": "src/img/2019-11-23/19-11-15-11-38-5944288.jpg"
+    }
+]
