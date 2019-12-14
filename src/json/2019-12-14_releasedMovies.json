@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Güzelliğin Portresi",
+        "actor": "Burçin Terzioğlu, Birkan Sokullu, Serkan Keskin",
+        "director": "Umur Turagay",
+        "date": "13 Aralık 2019",
+        "time": "2s 7dk",
+        "subject": "Gerilim",
+        "content": "Güzelliğin Portresi, yıllardır görüşmediği babası ile ilgili aldığı haberin ardından kendisini büyük bir gizemin ortasında bulan genç bir kadının hayatına odaklanıyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/12/13/16/0111630.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-12-12-13-16-0111630.jpg"
+    },
+    {
+        "title": "Jumanji: Yeni Seviye",
+        "actor": "Dwayne Johnson, Jack Black, Kevin Hart",
+        "director": "Jake Kasdan",
+        "date": "13 Aralık 2019",
+        "time": "2s 4dk",
+        "subject": "Macera,Komedi",
+        "content": "Jumanji: Yeni Seviye, arkadaşlarını kurtarmak için kendilerini yeniden oyunun içinde bulan gençlerin maceralarını konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/09/10/14/1288309.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-12-09-10-14-1288309.jpg"
+    },
+    {
+        "title": "Aman Reis Duymasın",
+        "actor": "Mustafa Üstündağ, Ozan Akbaba, Emir Benderlioğlu",
+        "director": "Onur Tan",
+        "date": "13 Aralık 2019",
+        "time": "1s 40dk",
+        "subject": "Komedi",
+        "content": "Eşkıya Dünyaya Hükümdar Olmaz ekibi tatile çıkıyor!",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/11/08/11/36/3405516.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-11-08-11-36-3405516.jpg"
+    },
+    {
+        "title": "Elma Dersem Çık",
+        "actor": "Aşkım Kapışmak",
+        "director": "İzzet Başlak",
+        "date": "13 Aralık 2019",
+        "time": "1s 30dk",
+        "subject": "Show",
+        "content": "Aile, çocuk, evlilik, ilişkiler, iletişimin önemi gibi çeşitli konular üzerine odaklanılan filmde hayata dair pek çok sorunun cevabı aranıyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/02/13/50/4824476.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-12-02-13-50-4824476.jpg"
+    },
+    {
+        "title": "Hain",
+        "actor": "Pierfrancesco Favino, Maria Fernanda Cândido, Fabrizio Ferracane",
+        "director": "Marco Bellocchio",
+        "date": "13 Aralık 2019",
+        "time": "2s 31dk",
+        "subject": "Biyografik,Dram",
+        "content": "Hain, iki dünyanın patronu olarak adlandırılan mafya babası Tommaso Buscetta’nın hayat hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/06/14/30/4003691.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-12-06-14-30-4003691.jpg"
+    },
+    {
+        "title": "Güzel Aşk",
+        "actor": null,
+        "director": "Selim Sener",
+        "date": null,
+        "time": null,
+        "subject": null,
+        "content": "Şeyh Galip'in eserinden uyarlanan animasyon türündeki \"Güzel Aşk\" filminin yönetmenliğini Selim Sener üstleniyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/09/09/08/1918096.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-12-09-09-08-1918096.jpg"
+    },
+    {
+        "title": "Sevimli Sihirbazlar",
+        "actor": null,
+        "director": "James Snider",
+        "date": "13 Aralık 2019",
+        "time": "1s 10dk",
+        "subject": "Animasyon",
+        "content": "Sevimli Sihirbazlar, kasabalarını korumak için zorlu bir mücadeleye girişen sevimli dostların hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/10/22/16/57/2910551.jpg",
+        "imgLocalPath": "src/img/2019-12-14/19-10-22-16-57-2910551.jpg"
+    }
+]

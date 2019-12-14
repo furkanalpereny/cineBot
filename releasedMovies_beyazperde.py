@@ -1,5 +1,5 @@
 # All rights reserved by Furkan Alperen Yildirim
-# InstaMovie is a instagram bot which is posting informations about actual movies.
+# cineBot is a bot which is posting informations about actual movies.
 
 from bs4 import BeautifulSoup
 import requests
