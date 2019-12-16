@@ -1,0 +1,123 @@
+[
+    {
+        "title": "Star Wars: Skywalker'ın Yükselişi",
+        "actor": "Daisy Ridley, Adam Driver, Oscar Isaac",
+        "director": "J.J. Abrams",
+        "date": "20 Aralık 2019",
+        "time": "2s 22dk",
+        "subject": "Bilimkurgu,Macera",
+        "content": "Kylo Ren, Büyük Lider Snoke'u öldürmesinin ardından İlk Düzen'in yeni Büyük Lider'i olmuştur. Acımasız yönetiminin altında galaksi yavaş yavaş umutsuzluğa kapılmaktadır. Luke Skywalker'ın Güç'le birleşmesinden sonra Rey kendi içindeki gücü benimsemiş, onu geçmişte tutan bağlarını kesmeyi başarmıştır.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/10/30/13/52/0959246.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-10-30-13-52-0959246.jpg"
+    },
+    {
+        "title": "Şuursuz Aşk",
+        "actor": "İsmail Hacıoğlu, Ebru Şahin, Burcu Kara",
+        "director": "Umut Ertek",
+        "date": "20 Aralık 2019",
+        "time": "1s 55dk",
+        "subject": "Romantik,Dram",
+        "content": "Şuursuz Aşk, akıl hastanesinde geçen hüzünlü bir aşk hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/06/07/33/5215028.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-06-07-33-5215028.jpg"
+    },
+    {
+        "title": "Kırk Yalan",
+        "actor": "Oğuzhan Uğur, Timur Acar, Sinan Bengier",
+        "director": "Hamdi Alkan",
+        "date": "20 Aralık 2019",
+        "time": "1s 37dk",
+        "subject": "Komedi",
+        "content": "Kırk Yalan, söylediği yalanlarla hayatını sürdüren Tahsin'in başına gelen olayları konu ediyor.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/12/02/07/40/3426397.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-02-07-40-3426397.jpg"
+    },
+    {
+        "title": "Skandal",
+        "actor": "Charlize Theron, Margot Robbie, Nicole Kidman",
+        "director": "Jay Roach",
+        "date": "20 Aralık 2019",
+        "time": "1s 48dk",
+        "subject": "Biyografik,Dram",
+        "content": "Skandal, Fox News'in kurucusu ve CEO'su olan Roger Ailes'in taciz skandalının perde arkasında yaşananları konu ediyor.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/12/05/11/20/5319512.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-05-11-20-5319512.jpg"
+    },
+    {
+        "title": "Beyaz Hüzün",
+        "actor": "Kenan Korkmaz, Murat Yatman, Duygu Poyraz",
+        "director": "Kenan Korkmaz",
+        "date": "20 Aralık 2019",
+        "time": "2s 5dk",
+        "subject": "Tarihi,Dram",
+        "content": "Beyaz Hüzün, kendisine bağlı birliği Sarıkamış'a ulaştırmak için zorlu bir mücadeleye girişen bir askerin hayatına odaklanıyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/08/26/15/17/1903462.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-08-26-15-17-1903462.jpg"
+    },
+    {
+        "title": "Ema",
+        "actor": "Gael García Bernal, Mariana Di Girolamo, Santiago Cabrera",
+        "director": "Pablo Larraín",
+        "date": "20 Aralık 2019",
+        "time": "1s 42dk",
+        "subject": "Dram",
+        "content": "Ema, evlat edinen bir çiftin yaladıklarını konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/04/09/07/0248730.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-04-09-07-0248730.jpg"
+    },
+    {
+        "title": "Eşek Kral",
+        "actor": null,
+        "director": "Aziz Jindani",
+        "date": "20 Aralık 2019",
+        "time": "1s 25dk",
+        "subject": "Animasyon,Komedi,Aile",
+        "content": "Eşek Kral, hayallerinin peşinden giden eşek Mangu'nun hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/09/16/09/52/1053777.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-09-16-09-52-1053777.jpg"
+    },
+    {
+        "title": "Paranormal Chat",
+        "actor": "Richard Hatch, Alison Haislip, Brady Smith",
+        "director": "Matthew Solomon",
+        "date": "20 Aralık 2019",
+        "time": "1s 21dk",
+        "subject": "Korku,Gerilim",
+        "content": "Paranormal Chat, İç Güvenlik Bakanlığı’nda internet trafiğini kontrol eden bir adamın yaşamına odaklanıyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/11/27/09/30/0464239.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-11-27-09-30-0464239.jpg"
+    },
+    {
+        "title": "El-Deccur",
+        "actor": "Fatih Kınacı, Aybars Mengi, İsmail Ülgey",
+        "director": "Gökhan Arı",
+        "date": "20 Aralık 2019",
+        "time": "1s 13dk",
+        "subject": "Korku",
+        "content": "El-Deccur, öğretmenleri ile birlikte kazı çalışması yapmaya giden bir grup arkeoloji öğrencisinin yaşadıklarını konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/07/02/14/10/2963148.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-07-02-14-10-2963148.jpg"
+    },
+    {
+        "title": "Kader Postası",
+        "actor": "Boncuk Yılmaz, Benian Dönmez, Şahin Ergüney",
+        "director": "Elif Akarsu Polat, Çiğdem Bozali",
+        "date": "20 Aralık 2019",
+        "time": "1s 44dk",
+        "subject": "Dram,Romantik",
+        "content": "Kader Postası, Zeynep adında bir kadının, çocukluktan başlayıp yetişkinliğe uzanan hayat hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/02/08/22/4731937.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-02-08-22-4731937.jpg"
+    },
+    {
+        "title": "Elfland - Yeni Yıl Dedektifleri",
+        "actor": null,
+        "director": "Logan Spence",
+        "date": "20 Aralık 2019",
+        "time": "1s 10dk",
+        "subject": "Animasyon",
+        "content": "Elfland - Yeni Yıl Dedektifleri, Noel babanın kayıp kızağını bulmaya çalışan E.L.F dedektif ekibinin hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/13/10/20/3031048.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-13-10-20-3031048.jpg"
+    }
+]
