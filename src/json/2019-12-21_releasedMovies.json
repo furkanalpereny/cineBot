@@ -11,17 +11,6 @@
         "imgLocalPath": "src/img/2019-12-21/19-10-30-13-52-0959246.jpg"
     },
     {
-        "title": "Şuursuz Aşk",
-        "actor": "İsmail Hacıoğlu, Ebru Şahin, Burcu Kara",
-        "director": "Umut Ertek",
-        "date": "20 Aralık 2019",
-        "time": "1s 55dk",
-        "subject": "Romantik,Dram",
-        "content": "Şuursuz Aşk, akıl hastanesinde geçen hüzünlü bir aşk hikayesini konu ediyor.",
-        "imgLink": "http://tr.web.img2.acsta.net/pictures/19/12/06/07/33/5215028.jpg",
-        "imgLocalPath": "src/img/2019-12-21/19-12-06-07-33-5215028.jpg"
-    },
-    {
         "title": "Kırk Yalan",
         "actor": "Oğuzhan Uğur, Timur Acar, Sinan Bengier",
         "director": "Hamdi Alkan",
@@ -31,17 +20,6 @@
         "content": "Kırk Yalan, söylediği yalanlarla hayatını sürdüren Tahsin'in başına gelen olayları konu ediyor.",
         "imgLink": "http://tr.web.img3.acsta.net/pictures/19/12/02/07/40/3426397.jpg",
         "imgLocalPath": "src/img/2019-12-21/19-12-02-07-40-3426397.jpg"
-    },
-    {
-        "title": "Skandal",
-        "actor": "Charlize Theron, Margot Robbie, Nicole Kidman",
-        "director": "Jay Roach",
-        "date": "20 Aralık 2019",
-        "time": "1s 48dk",
-        "subject": "Biyografik,Dram",
-        "content": "Skandal, Fox News'in kurucusu ve CEO'su olan Roger Ailes'in taciz skandalının perde arkasında yaşananları konu ediyor.",
-        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/12/05/11/20/5319512.jpg",
-        "imgLocalPath": "src/img/2019-12-21/19-12-05-11-20-5319512.jpg"
     },
     {
         "title": "Beyaz Hüzün",
@@ -61,20 +39,20 @@
         "date": "20 Aralık 2019",
         "time": "1s 42dk",
         "subject": "Dram",
-        "content": "Ema, evlat edinen bir çiftin yaladıklarını konu ediyor.",
+        "content": "Ema, evlat edinen bir çiftin yaşadıklarını konu ediyor.",
         "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/04/09/07/0248730.jpg",
         "imgLocalPath": "src/img/2019-12-21/19-12-04-09-07-0248730.jpg"
     },
     {
-        "title": "Eşek Kral",
-        "actor": null,
-        "director": "Aziz Jindani",
+        "title": "Skandal",
+        "actor": "Charlize Theron, Margot Robbie, Nicole Kidman",
+        "director": "Jay Roach",
         "date": "20 Aralık 2019",
-        "time": "1s 25dk",
-        "subject": "Animasyon,Komedi,Aile",
-        "content": "Eşek Kral, hayallerinin peşinden giden eşek Mangu'nun hikayesini konu ediyor.",
-        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/09/16/09/52/1053777.jpg",
-        "imgLocalPath": "src/img/2019-12-21/19-09-16-09-52-1053777.jpg"
+        "time": "1s 48dk",
+        "subject": "Biyografik,Dram",
+        "content": "Skandal, Fox News'in kurucusu ve CEO'su olan Roger Ailes'in taciz skandalının perde arkasında yaşananları konu ediyor.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/12/05/11/20/5319512.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-12-05-11-20-5319512.jpg"
     },
     {
         "title": "Paranormal Chat",
@@ -88,17 +66,6 @@
         "imgLocalPath": "src/img/2019-12-21/19-11-27-09-30-0464239.jpg"
     },
     {
-        "title": "El-Deccur",
-        "actor": "Fatih Kınacı, Aybars Mengi, İsmail Ülgey",
-        "director": "Gökhan Arı",
-        "date": "20 Aralık 2019",
-        "time": "1s 13dk",
-        "subject": "Korku",
-        "content": "El-Deccur, öğretmenleri ile birlikte kazı çalışması yapmaya giden bir grup arkeoloji öğrencisinin yaşadıklarını konu ediyor.",
-        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/07/02/14/10/2963148.jpg",
-        "imgLocalPath": "src/img/2019-12-21/19-07-02-14-10-2963148.jpg"
-    },
-    {
         "title": "Kader Postası",
         "actor": "Boncuk Yılmaz, Benian Dönmez, Şahin Ergüney",
         "director": "Elif Akarsu Polat, Çiğdem Bozali",
@@ -108,6 +75,28 @@
         "content": "Kader Postası, Zeynep adında bir kadının, çocukluktan başlayıp yetişkinliğe uzanan hayat hikayesini konu ediyor.",
         "imgLink": "http://tr.web.img4.acsta.net/pictures/19/12/02/08/22/4731937.jpg",
         "imgLocalPath": "src/img/2019-12-21/19-12-02-08-22-4731937.jpg"
+    },
+    {
+        "title": "Eşek Kral",
+        "actor": null,
+        "director": "Aziz Jindani",
+        "date": "20 Aralık 2019",
+        "time": "1s 25dk",
+        "subject": "Animasyon,Komedi,Aile",
+        "content": "Eşek Kral, hayallerinin peşinden giden eşek Mangu'nun hikayesini konu ediyor.",
+        "imgLink": "http://tr.web.img3.acsta.net/pictures/19/09/16/09/52/1053777.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-09-16-09-52-1053777.jpg"
+    },
+    {
+        "title": "El-Deccur",
+        "actor": "Fatih Kınacı, Aybars Mengi, İsmail Ülgey",
+        "director": "Gökhan Arı",
+        "date": "20 Aralık 2019",
+        "time": "1s 13dk",
+        "subject": "Korku",
+        "content": "El-Deccur, öğretmenleri ile birlikte kazı çalışması yapmaya giden bir grup arkeoloji öğrencisinin yaşadıklarını konu ediyor.",
+        "imgLink": "http://tr.web.img4.acsta.net/pictures/19/07/02/14/10/2963148.jpg",
+        "imgLocalPath": "src/img/2019-12-21/19-07-02-14-10-2963148.jpg"
     },
     {
         "title": "Elfland - Yeni Yıl Dedektifleri",
