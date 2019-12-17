@@ -1,5 +1,6 @@
-asgiref==3.2.3
-asn1crypto==0.24.0
+apturl
+asgiref
+asn1crypto
 astroid==2.3.3
 beautifulsoup4==4.8.1
 Brlapi==0.6.6
@@ -7,6 +8,7 @@ certifi==2018.1.18
 chardet==3.0.4
 Click==7.0
 command-not-found==0.3
+cryptography==2.1.4
 cupshelpers==1.0
 decorator==4.0.11
 defer==1.0.6
@@ -42,6 +44,7 @@ pexpect==4.2.1
 Pillow==6.2.1
 protobuf==3.0.0
 pycairo==1.16.2
+pycrypto==2.6.1
 pycups==1.9.73
 pygobject==3.26.1
 pylint==2.4.4
@@ -52,6 +55,8 @@ python-apt==1.6.4
 python-dateutil==2.6.1
 python-debian==0.1.32
 pytz==2019.3
+pyxdg==0.25
+PyYAML==3.12
 reportlab==3.4.0
 requests==2.11.1
 requests-toolbelt==0.7.0
@@ -67,6 +72,7 @@ tqdm==4.11.2
 typed-ast==1.4.0
 ufw==0.36
 unattended-upgrades==0.1
+urllib3==1.22
 usb-creator==0.3.3
 virtualenv==15.1.0
 wadllib==1.3.2
