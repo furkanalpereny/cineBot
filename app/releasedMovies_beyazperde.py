@@ -4,8 +4,7 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime
-import json
-from src import getImages
+from app import getImages
 import os
 
 

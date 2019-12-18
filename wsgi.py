@@ -1,3 +1,1 @@
-from src import app
-
-app = app.index()
+from app import app
