@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 import datetime
 import json
-import getImages
+from src import getImages
 import os
 
 
@@ -125,7 +125,8 @@ def getMoviesThisWeek():
 
             m_obj.imgLink = img
             path = 'src/img/'+getNextSaturday()+'/'
-            m_obj.imgLocalPath = getImages.saveImage(img, path)
+            # m_obj.imgLocalPath = getImages.saveImage(img, path)
+            m_obj.imgLocalPath = None
         except:
             m_obj.imgLink = None
             m_obj.imgLocalPath = None
@@ -145,4 +146,4 @@ def writeMoviesToJson():
         json.dump(movies, f, ensure_ascii=False, indent=4) #film dict'i json'a dump ediliyor
 
 
-writeMoviesToJson()
+
