@@ -134,7 +134,6 @@ def getMoviesThisWeek():
 
     return movies
 
-
 def writeMoviesToJson():
     movies = getMoviesThisWeek()
     filePath = "src/json/"
