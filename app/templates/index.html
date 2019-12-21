@@ -24,8 +24,15 @@
                       <div class="col-sm-8">
                         <div class="card-body">
                           <h5 class="card-title">{{i['title']}}</h5>
+                          <p class="card-text">
+                            <span class="badge badge-pill badge-primary">{{i['date']}}</span>
+                            <span class="badge badge-pill badge-primary">{{i['time']}}</span>
+                            <span class="badge badge-pill badge-primary">{{i['subject']}}</span>
+                          </p>
+                          <p class="card-text"><small class="text-muted">Yönetmen: {{i['director']}}</small></p>
+                          <p class="card-text"><small class="text-muted">Oyuncular: {{i['actor']}}</small></p>
+
                           <p class="card-text">{{i['content']}}</p>
-                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                       </div>
                     </div>
