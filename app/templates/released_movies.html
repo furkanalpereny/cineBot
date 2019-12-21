@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Haftanın Filmleri</title>
+  </head>
+  <body>
+
+    <main role="main">
+      <section class="jumbotron text-center">
+        <div class="container">
+          <h1 class="jumbotron-heading">Haftanın Filmleri</h1>
+        </div>
+      </section>
+
+      <div class="album py-5 bg-light">
+        <div class="container">
+          <div class="row">
+            {%for i in movies%}
+            <div class="col-lg-4 d-flex align-items-stretch">
+              <div class="card mb-4 box-shadow">
+                <center><img src="{{i['imgLink']}}" alt="..." class="img-thumbnail"></center>
+                
+                <div class="card-body">
+                  <h5 class="card-title">{{i['title']}}</h5>
+                  <p class="card-text">
+                    <span class="badge badge-pill badge-primary">{{i['date']}}</span>
+                    <span class="badge badge-pill badge-primary">{{i['time']}}</span>
+                    <span class="badge badge-pill badge-primary">{{i['subject']}}</span>
+                  </p>
+                  <p class="card-text"><small class="text-muted">Yönetmen: {{i['director']}}</small></p>
+                  <p class="card-text"><small class="text-muted">Oyuncular: {{i['actor']}}</small></p>
+
+                  <p class="card-text">{{i['content']}}</p>
+                </div>
+
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="text-muted">
+      <div class="container">
+        <p class="float-right">
+          <a href="#">Back to top</a>
+        </p>
+        <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
+        <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+  </body>
+</html>
