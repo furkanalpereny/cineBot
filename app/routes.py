@@ -10,8 +10,7 @@ def main():
 
 @app.route('/index')
 def index():
-    with open('src/json/2019-12-21_releasedMovies.json') as json_file:
-        movies = json.load(json_file)
+    movies = releasedMovies_beyazperde.getMoviesThisWeek()
     return render_template("index.html",movies = movies)
 
 @app.route('/getMoviesThisWeek')
