@@ -6,12 +6,7 @@ import json
 
 @app.route('/')
 def main():
-    return render_template("main.html")
-
-@app.route('/index')
-def index():
-    movies = releasedMovies_beyazperde.getMoviesThisWeek()
-    return render_template("index.html",movies = movies)
+    return render_template("index.html")
 
 @app.route('/released_movies')
 def released_movies():
