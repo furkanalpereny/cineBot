@@ -6,7 +6,7 @@ import requests
 import datetime
 from app import getImages
 import os
-
+import json
 
 class movie(object):
     def __init__(self):
@@ -18,7 +18,7 @@ class movie(object):
         self.subject = ""
         self.content = ""
         self.imgLink = ""
-        self.imgLocalPath = ""
+        #self.imgLocalPath = ""
 
 
 def soup(link):
@@ -124,20 +124,21 @@ def getMoviesThisWeek():
 
             m_obj.imgLink = img
             path = 'src/img/'+getNextSaturday()+'/'
-            # m_obj.imgLocalPath = getImages.saveImage(img, path)
+            #m_obj.imgLocalPath = getImages.saveImage(img, path)
             m_obj.imgLocalPath = None
         except:
             m_obj.imgLink = None
-            m_obj.imgLocalPath = None
+            #m_obj.imgLocalPath = None
 
         movies.append(m_obj.__dict__)
 
+    writeMoviesToJson(movies)
     return movies
 
-def writeMoviesToJson():
-    movies = getMoviesThisWeek()
+def writeMoviesToJson(movies):
     filePath = "src/json/"
     jsonPath = filePath+getNextSaturday()+"_releasedMovies.json"
+
     if not os.path.exists(filePath): #eğer öyle uzantıda dosya yoksa dosya oluşturur
         os.makedirs(filePath)
     with open(jsonPath, 'w', encoding='utf-8') as f:
